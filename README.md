@@ -2,7 +2,7 @@
 
 <h2>Architect/Solution Architect/Engineering Manager</h2>
 
-- I am  Java Architect with 13+ years of extensive in architecting, designing and developing complex systems SOA/REST/Micro service patterns.
+- Java Architect with 13+ years of extensive in architecting, designing and developing complex systems SOA/REST/Micro service patterns.
 
 - Have strong Experience with software design concepts, practices, modern development methodologies such as Agile. 
 
